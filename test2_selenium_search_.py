@@ -1,5 +1,4 @@
 # simple python selenium "hello world", just to search google
-# create a chrome/firefox variable
 
 import time
 from selenium import webdriver
